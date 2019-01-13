@@ -24,3 +24,6 @@ Space Invaders arcade game made using Pygame library
 ├── README.md
 └── ships.py
 ```
+## License
+The MIT License https://rohanc.mit-license.org/  
+Copyright &copy; 2019 Rohan Chacko <rohanchacko007@gmail.com>
